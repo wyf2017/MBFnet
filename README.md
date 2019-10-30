@@ -29,7 +29,7 @@ Reference to [demos/train_sfk_all.sh](demos/train_sfk_all.sh) and [demos/train_s
 ### Submission
 Reference to [demos/submission_all.sh](demos/submission_all.sh) and [demos/submission.sh](demos/submission.sh).
 
-[Pretrained Model](https://) ( Extraction code： )
+[Pretrained Model](https://pan.baidu.com/s/1itwxOxwzgM0Rsk93sEpwIQ)
 
 ## Results
 Reults on [KITTI 2015 leaderboard](http://www.cvlibs.net/datasets/kitti/eval_scene_flow.php?benchmark=stereo)
