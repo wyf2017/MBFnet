@@ -15,9 +15,9 @@ The stereo matching based on convolutional neural network has achieved a great i
 
 ### Dependencies
 
-- [Python-2.7](https://www.python.org/downloads/)
-- [PyTorch-0.4.0](http://pytorch.org)
-- [torchvision-0.2.1](http://pytorch.org)
+- [Python-3.7](https://www.python.org/downloads/)
+- [PyTorch-1.1.0](http://pytorch.org)
+- [torchvision-0.4.0](http://pytorch.org)
 - [KITTI dataset](http://www.cvlibs.net/datasets/kitti/eval_stereo.php)
 - [SceneFlow dataset](https://lmb.informatik.uni-freiburg.de/resources/datasets/SceneFlowDatasets.en.html)
 
