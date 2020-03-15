@@ -1,8 +1,12 @@
 ﻿# Pytorch Implementation of the Real-time Stereo Matching with a Hierarchical Refinement
 
 citation{
+
 Wang Yufeng,Wang Hongwei,Yu Guang,Yang Mingquan,Yuan Yuwei,Quan Jicheng. Real-time stereo matching with a hierarchical refinement [J]. Acta Optica Sinica, 2020, 40(09): 0915002.
+
 王玉锋,王宏伟,于光,杨明权,袁昱纬,全吉成. 渐进细化的实时立体匹配算法[J]. 光学学报, 2020, 40(09): 0915002.
+
+url=http://www.opticsjournal.net/Articles/HPAbstract?manu_number=g191640
 }
 
 ## Contents
